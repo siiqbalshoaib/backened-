@@ -2,13 +2,17 @@
   "name": "backened",
   "version": "1.0.0",
   "description": "this is a backened practice",
+  "type": "module",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "dev": "nodemon src/index.js"
   },
   "keywords": [
     "chai"
   ],
   "author": "shoaib iqbal",
-  "license": "ISC"
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.3"
+  }
 }
