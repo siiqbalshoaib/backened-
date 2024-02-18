@@ -1,0 +1,14 @@
+{
+  "name": "backened",
+  "version": "1.0.0",
+  "description": "this is a backened practice",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chai"
+  ],
+  "author": "shoaib iqbal",
+  "license": "ISC"
+}
